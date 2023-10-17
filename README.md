@@ -1,4 +1,4 @@
 | EJERCICIOS  | ENLACES |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Ejercicio 1  | Content Cell  |
+| Ejercicio 2  | Content Cell  |

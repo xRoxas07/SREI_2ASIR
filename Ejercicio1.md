@@ -20,3 +20,5 @@ WISA es otro acrónimo utilizado en el desarrollo web, pero a diferencia de LAMP
 **W**indows, **I**IS, **S**QL Server, **A**SP.NET
 
 WISA es especialmente popular en entornos donde se utilizan tecnologías y plataformas Microsoft, como en empresas que ya utilizan Windows y SQL Server para otras necesidades. Ofrece una integración sólida de tecnologías y herramientas desarrolladas por Microsoft.
+
+**3. Lee el siguiente artículo e instala Apache en Ubuntu:**

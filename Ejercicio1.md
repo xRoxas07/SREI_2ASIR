@@ -24,7 +24,7 @@ WISA es especialmente popular en entornos donde se utilizan tecnologías y plata
 **3. Lee el siguiente artículo e instala Apache en Ubuntu:**
 
 - Primero entraremos como *"super usuario"* usuando el comando **sudo su** para tener permisos de administración y a continucion actulizaremos los paquetes de instalacion con **sudo apt update**
-https://github.com/xRoxas07/SREI_2ASIR/blob/main/Imagenes/Screenshot_2.png
+https://raw.githubusercontent.com/xRoxas07/SREI_2ASIR/blob/main/Imagenes/Screenshot_2.png
 
 - Luego de actulidar los paquetes de instalación podremos instalar apache2 usuando el comando **sudo apt install apache2** y el proceso comenzara teniendo que confirmar la instalacion
 

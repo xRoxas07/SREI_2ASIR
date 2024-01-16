@@ -1,0 +1,41 @@
+**1. Authoritative-Only DNS Servers:**
+Un servidor DNS autoritativo solo se ocupa de responder consultas para las zonas que tiene la responsabilidad de manejar.
+
+**Ventajas:**
+Rapidez: Al centrarse solo en sus zonas, puede responder rápidamente a consultas.
+Eficiencia: Al no manejar consultas recursivas, puede manejar muchas solicitudes de manera eficiente.
+
+**Desventajas:**
+Limitado a sus Zonas: No responde a consultas recursivas para zonas fuera de su responsabilidad.
+No Almacena en Caché: No mantiene una caché de consultas, lo que puede afectar la eficiencia en consultas repetidas.
+
+**2. Caching DNS Server:**
+Un servidor DNS de almacenamiento en caché maneja solicitudes recursivas de clientes y mantiene una caché local de consultas recientes.
+
+**Ventajas:**
+Acceso Amplio: Tiene acceso a toda la información DNS pública, facilitando la resolución de consultas diversas.
+Velocidad: Almacena en caché resultados para acelerar futuras consultas similares.
+Compatibilidad Global: Puede atender a clientes que solo realizan consultas recursivas.
+
+**Desventajas:**
+Complejidad Adicional: Más complejidad y recursos necesarios en comparación con servidores autoritativos solo.
+
+**3. Forwarding DNS Server:**
+Un servidor DNS de reenvío actúa como intermediario entre el cliente y otro servidor DNS recursivo, delegando las consultas a este último.
+
+**Ventajas:**
+Recursión Sin Recursos Locales: Puede proporcionar servicios recursivos sin incurrir en la carga completa de realizar la recursión.
+Cache Local: Puede mantener una caché local para acelerar futuras consultas.
+Flexibilidad de Tráfico: Permite dirigir tráfico público y privado a diferentes servidores DNS recursivos.
+
+**Desventajas:**
+Dependencia Externa: Depende de otro servidor para realizar la recursión, lo que puede introducir cierta latencia y puntos de fallo adicionales.
+Relaciones Entre Servidores DNS
+Primary and Secondary Servers:
+Ambos son autoritativos para las zonas que manejan.
+Primarios: Leen sus zonas desde archivos en el disco.
+Secundarios: Obtienen las zonas mediante transferencias desde servidores primarios.
+Public vs Private Servers:
+Utiliza servidores DNS externos y autoritativos públicos para consultas públicas.
+Emplea servidores DNS internos para consultas internas, proporcionando funciones adicionales como recursión y caché.
+Consideración de Seguridad: Mantener servidores DNS públicos y privados completamente separados es crucial para la seguridad.

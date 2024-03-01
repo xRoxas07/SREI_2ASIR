@@ -1,6 +1,6 @@
 Busca información sobre las siguientes directivas y el valor que toman por defecto y el lugar donde se encuentra definida.
 
-**Directivas de identificación**
+### **Directivas de identificación**
 
 ServerName: Valor por defecto: Ninguno (debe ser configurado explícitamente).
             Ubicación: Archivo de configuración principal (httpd.conf) o en archivos de configuración de sitios virtuales (por ejemplo, en un archivo .conf de un sitio).
@@ -14,7 +14,7 @@ ServerTokens:Valor por defecto: Full (muestra la información completa sobre el 
              Ubicación: Archivo de configuración principal (httpd.conf) o en archivos de configuración de sitios virtuales.
              Función: Controla la información que se muestra en los encabezados de respuesta del servidor y en los mensajes de error. Puede tomar valores como "Full" (mostrar toda la información), "OS" (mostrar solo el nombre del sistema operativo) o "Min" (mostrar solo Apache).
 
-**Directivas de localización de ficheros**
+### **Directivas de localización de ficheros**
 
 DocumentRoot: Valor por defecto: Depende de la instalación, comúnmente /var/www/html.
               Ubicación: Archivo de configuración principal (httpd.conf) o en archivos de configuración de sitios virtuales.
@@ -32,7 +32,7 @@ ServerRoot:Valor por defecto: Depende de la instalación, comúnmente /etc/httpd
            Ubicación: Archivo de configuración principal (httpd.conf).
            Función: Define el directorio raíz del servidor web. Todos los caminos relativos utilizados en la configuración se consideran relativos a este directorio.
 
-**Directivas de control de la conexión**
+### **Directivas de control de la conexión**
 
 Timeout: Valor por defecto: 300 segundos (5 minutos).
          Ubicación: Archivo de configuración principal (httpd.conf) o en archivos de configuración de sitios virtuales.
@@ -50,7 +50,7 @@ KeepAliveTimeout: Valor por defecto: 5 segundos.
                   Ubicación: Archivo de configuración principal (httpd.conf) o en archivos de configuración de sitios virtuales.
                   Función: Establece el tiempo máximo (en segundos) que el servidor espera para recibir la siguiente solicitud en una conexión Keep-Alive antes de cerrarla.
 
-**Otras**
+### **Otras**
 LogLevel: Valor por defecto: "warn" (advertencias y errores).
           Ubicación: Archivo de configuración principal (httpd.conf) o en archivos de configuración de sitios virtuales.
           Función: Controla el nivel de detalle de los mensajes de registro. Puede ser utilizado para ajustar la cantidad de información registrada en los archivos de registro del servidor.

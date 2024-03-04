@@ -38,8 +38,8 @@
 ![image](https://github.com/xRoxas07/SREI_2ASIR/blob/main/Proyecto%201ºT/imagenes/Screenshot_38.png)
 ![image](https://github.com/xRoxas07/SREI_2ASIR/blob/main/Proyecto%201ºT/imagenes/Screenshot_39.png)
 ![image](https://github.com/xRoxas07/SREI_2ASIR/blob/main/Proyecto%201ºT/imagenes/Screenshot_40.png)
-![image](https://github.com/xRoxas07/SREI_2ASIR/blob/main/Proyecto%201ºT/imagenes/Screenshot_40.png)
 ![image](https://github.com/xRoxas07/SREI_2ASIR/blob/main/Proyecto%201ºT/imagenes/Screenshot_41.png)
+![image](https://github.com/xRoxas07/SREI_2ASIR/blob/main/Proyecto%201ºT/imagenes/Screenshot_49.png)
 ![image](https://github.com/xRoxas07/SREI_2ASIR/blob/main/Proyecto%201ºT/imagenes/Screenshot_42.png)
 ![image](https://github.com/xRoxas07/SREI_2ASIR/blob/main/Proyecto%201ºT/imagenes/Screenshot_43.png)
 ![image](https://github.com/xRoxas07/SREI_2ASIR/blob/main/Proyecto%201ºT/imagenes/Screenshot_44.png)
@@ -47,7 +47,6 @@
 ![image](https://github.com/xRoxas07/SREI_2ASIR/blob/main/Proyecto%201ºT/imagenes/Screenshot_46.png)
 ![image](https://github.com/xRoxas07/SREI_2ASIR/blob/main/Proyecto%201ºT/imagenes/Screenshot_47.png)
 ![image](https://github.com/xRoxas07/SREI_2ASIR/blob/main/Proyecto%201ºT/imagenes/Screenshot_48.png)
-![image](https://github.com/xRoxas07/SREI_2ASIR/blob/main/Proyecto%201ºT/imagenes/Screenshot_49.png)
 
 
 

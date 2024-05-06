@@ -7,10 +7,12 @@
 | [Dummy Web Server](https://github.com/xRoxas07/SREI_2ASIR/blob/main/Dummy%20Server/doc.md)|
 
 |  TEMA 1  | 
+| ------------- |
 |  [EJERCICIOS](https://drive.google.com/drive/folders/1AnQIuM_b6blyrKso_oyWSE_Bi02nbjMK?usp=sharing)  |
 
 
 |  Proyecto 1º Trimestre  |
+| ------------- |
 |  [Proyecto](https://github.com/xRoxas07/SREI_2ASIR/blob/main/Proyecto%201ºT/doc.md)  |
 
 #### 2º Trimestre
